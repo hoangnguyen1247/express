@@ -3,6 +3,7 @@
   "description": "Fast, unopinionated, minimalist web framework",
   "version": "4.17.1",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "main": "lib2/express.js",
   "contributors": [
     "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
     "Ciaran Jessup <ciaranj@gmail.com>",
